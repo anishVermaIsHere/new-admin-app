@@ -1,4 +1,4 @@
-# Basic Admin Dashboardwith using ReactJS and Bootstrap
+# Basic Admin Dashboard in ReactJS and Bootstrap
 
 **Infotonics Media Pvt Ltd. ReactJS Internship Assignment** 
 **To run application follow these steps**
